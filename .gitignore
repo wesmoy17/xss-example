@@ -1,2 +1,25 @@
 __pycache__/
 *.db
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+Include/
+Lib/
+lib/
+lib64/
+parts/
+Scripts/
+sdist/
+tcl/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
